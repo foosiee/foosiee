@@ -18,8 +18,7 @@ const cole = {
   likes: ["⛳️", "🎾", "⚾️", "🏀", "🏈", "🎸", "🎮", "the office"]
 }
 ```
-
-<img src="https://media.giphy.com/media/13j8f255dPErew/giphy.gif" width="200"> <em>please feel free to contact me</em>
+<em>please feel free to contact me</em>
 
 ---
 
