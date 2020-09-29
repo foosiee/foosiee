@@ -13,7 +13,7 @@
 const cole = {
   pronouns: "he" | "him",
   code: ["typescript", "python", "java", "c#", "react", "angular"],
-  tools: ["aws", "azure, google cloud platform", "salesforce"],
+  tools: ["aws", "azure", "google cloud platform", "salesforce"],
   architecture: ["microservices", "event-driven", "rest"],
   likes: ["⛳️", "🎾", "⚾️", "🏀", "🏈", "🎸", "🎮", "the office"]
 }
